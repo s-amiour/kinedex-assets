@@ -1,0 +1,1 @@
+#kinedex-assets
